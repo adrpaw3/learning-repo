@@ -1,16 +1,30 @@
+/* tag selectors */
 body {
     background-color: #E4F9F5;
+    font-family: Verdana, sans-serif;
 }
 hr {
+    border-color: #40514E;
     border-style: dotted none none;
     border-width: 5px;
-    border-color: #40514E;
+    height: 1%;
     width: 5%;
-    height: 1px;
 }
-h1{
+h1 {
     color: #11999E;
 }
-h3{
+h3 {
     color: #11999E;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+
+/* class selectors */
+.nameETC {
+    border-spacing: 35px;
+}
+.skillsTable {
+    border-spacing: 10px;
 }
