@@ -16,15 +16,17 @@ h1 {
 h3 {
     color: #11999E;
 }
-img {
+
+/* class selectors */
+
+/* id selectors */
+#skillsTable {
+    border-spacing: 10px;
+}
+#myImage {
     height: 200px;
     width: 200px;
 }
-
-/* class selectors */
-.nameETC {
+#nameETC {
     border-spacing: 35px;
-}
-.skillsTable {
-    border-spacing: 10px;
 }
