@@ -1,6 +1,6 @@
 h1 {
 font-family: 'montserrat';
-font-size: 3rem;
+font-size: 3.5rem;
 line-height: 1.5;
 }
 body {
@@ -26,12 +26,29 @@ body {
     font-weight: bold;
 }
 .nav-item {
-    padding: 0 18px 18px;
+    padding: 0 18px;
 }
 .nav-link {
     font-family: 'montserrat-light';
-    font-size: ;
-    font-weight: ;
+    font-size: 1.2rem;
 }
 
 /* Download buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+    width: 60%;
+    transform: rotate(15deg);
+}
+/* Features */
+.features {
+    text-align: center;
+    margin: 150px 100px 200px;
+}
+.features-img {
+    color: #ff4c68;
+}
